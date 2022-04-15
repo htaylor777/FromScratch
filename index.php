@@ -28,7 +28,6 @@ get_header(); ?>
            //the_tags();          
           }?>
          
-      <!--hr class="break"></hr--> 
       <hr/> 
     <?php echo "index.php" . comments_template();?>
     </section>

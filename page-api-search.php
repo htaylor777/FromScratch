@@ -31,7 +31,6 @@ get_header(); ?>
          
       <!--hr class="break"></hr--> 
       <hr/> 
-      
     <?php comments_template();?>
     </section>
     <?php
